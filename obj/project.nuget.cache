@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8XTqKFx7RP/ijvI9wcV1lzMJ01HzULfiHWGGagtFhO0RpCoqMTLxrmTChGqhtsL+db8iaMyntRC9DuIGl+0Uvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ladao\\OneDrive\\Área de Trabalho\\Projetos\\conversor-de-moedas\\conversor-de-moedas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ladao\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
